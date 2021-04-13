@@ -14,7 +14,8 @@
   background-color: #222;
   color: #fff;
   border-left: #000 4px solid;
-  a {
-    color: #fce45c;
+  a, a:hover, a:visited, a:active {
+    color: #ffffff;
+    display: block;
   }
 }
